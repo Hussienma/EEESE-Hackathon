@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Hussien:hmah@testingcluster.eimem.gcp.mongodb.net/?retryWrites=true&w=majority",
+  "JWT": "Secret"
+}
